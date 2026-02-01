@@ -32,4 +32,4 @@ source .venv/bin/activate
 ### How to Run
 ``` bash
 git clone https://github.com/mohitjaryal/ipl-eda.git
-cd <your-repo-name>
+cd ipl-eda
