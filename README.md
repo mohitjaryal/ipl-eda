@@ -41,3 +41,9 @@ source .venv/bin/activate
 ``` bash
 git clone https://github.com/mohitjaryal/ipl-eda.git
 cd ipl-eda
+```
+
+## Author
+[Mohit Jaryal](https://mohitjaryal.online)
+
+
