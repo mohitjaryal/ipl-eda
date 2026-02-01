@@ -28,3 +28,8 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 # macOS / Linux
 source .venv/bin/activate
+```
+### How to Run
+``` bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
