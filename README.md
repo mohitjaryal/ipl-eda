@@ -18,6 +18,14 @@ This project performs **EDA (Exploratory Data Analysis)** on a real-world datase
 
 ---
 
+## Key Libraries Used
+- [Pandas](https://pandas.pydata.org/) – Data manipulation
+- [NumPy](https://numpy.org/) – Numerical operations
+- [Matplotlib](https://matplotlib.org/) – Basic plotting
+- [Seaborn](https://seaborn.pydata.org/) – Advanced visualizations
+
+---
+
 ## ⚙️ Environment Setup
 
 ### 1️⃣ Create a Virtual Environment
