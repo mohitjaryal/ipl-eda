@@ -31,5 +31,5 @@ source .venv/bin/activate
 ```
 ### How to Run
 ``` bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/mohitjaryal/ipl-eda.git
 cd <your-repo-name>
